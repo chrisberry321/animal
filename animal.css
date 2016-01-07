@@ -29,3 +29,9 @@ height: 210px;
 #col3 {
   background-color: #6C4FCC;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+}
